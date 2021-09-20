@@ -1,0 +1,7 @@
+*.0
+*.lo
+*.la
+Makefile
+Makefile.in
+.vscode
+build/
